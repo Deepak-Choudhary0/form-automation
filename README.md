@@ -16,7 +16,7 @@ This project demonstrates basic automation using Puppeteer, a library for contro
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Technologies Used](#technologies)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
